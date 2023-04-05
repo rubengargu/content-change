@@ -30,7 +30,7 @@ $ node ./src/utils/cli.js sanitize_lesson --slug all
 
 Will try to clean and fix any possible issues on the lessons, for example: Date formats.
 
-### Method: update_lesson
+### Method: update_lesson_1
 
 | PARAM         | DESCRIPTION |
 | ---------     | ----------- |
